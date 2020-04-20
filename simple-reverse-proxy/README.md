@@ -1,6 +1,6 @@
 # Simple Reverse Proxy (Run on Docker)
 
-![](./nginx-reverse-proxy.png)
+<img src="./nginx-reverse-proxy.png" width="600"/>
 
 # Requires
 
