@@ -62,7 +62,7 @@ $ docker ps -a
 4.1 Build Docker Image
 
 ```sh
-$ cd web
+$ cd reverse-proxy 
 $ docker build -t simple-reverse-proxy .  
 $ docker images 
 ```
