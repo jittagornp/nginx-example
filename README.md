@@ -11,4 +11,5 @@
 
 1. [Simple Web Server (Run on Docker)](./simple-web-server/)
 2. [Simple Reverse Proxy (Run on Docker)](./simple-reverse-proxy/)
+3. [Simple Load Balancer (Run on Docker)](./simple-load-balancer/)
 
