@@ -13,12 +13,12 @@
 ```sh
 $ git clone https://github.com/jittagornp/nginx-example.git
 $ cd nginx-example
+$ cd simple-web-server
 ```
 
 ### 2. Build Docker Image 
 
 ```sh 
-$ cd simple-web-server
 $ docker build -t simple-web-server .  
 $ docker images 
 ```
