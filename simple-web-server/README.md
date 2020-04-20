@@ -1,6 +1,6 @@
 # Simple Web Server (Run on Docker)
 
-![](./nginx-web-server.png)
+<img src="./nginx-web-server.png" width="600"/>
 
 # Requires
 
