@@ -1,6 +1,6 @@
 # Nginx Example 
 
-> ตัวอย่างการ Config Nginx
+> ตัวอย่างการ Config Nginx แบบต่าง ๆ
 
 # Requires
 
@@ -12,4 +12,8 @@
 1. [Simple Web Server (Run on Docker)](./simple-web-server/)
 2. [Simple Reverse Proxy (Run on Docker)](./simple-reverse-proxy/)
 3. [Simple Load Balancer (Run on Docker)](./simple-load-balancer/)
+
+# หมายเหตุ
+
+ว่าง ๆ เดี๋ยวจะมา Update เรื่อย ๆ ครับ
 
