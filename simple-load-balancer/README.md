@@ -26,12 +26,14 @@ $ docker images
 
 2.2 Run Container
 
+```sh
 $ docker run -d -p 3001:80 --name simple-web-server-1 --restart=always simple-web-server-1 
-$ docker ps -a 
+$ docker ps -a
+```
 
 2.3 Test
 
-http://<HOST_NAME or IP>:3001
+> http://<HOST_NAME or IP>:3001
 
 ### 3. Create Web Server 2 
 
