@@ -6,7 +6,7 @@
 
 # Steps
 
-### 1. 
+### 1. Clone
 
 ```sh
 $ git clone https://github.com/jittagornp/nginx-example.git
@@ -55,3 +55,25 @@ $ docker ps -a
 3.3 Test
 
 > http://<HOST_NAME or IP>:3002
+
+
+### 4. Create Reverse Proxy 
+
+4.1 Build Docker Image
+
+```sh
+$ cd web
+$ docker build -t simple-reverse-proxy .  
+$ docker images 
+```
+
+4.2 Run Container 
+
+```sh
+$ docker run -d -p 80:80 --name simple-reverse-proxy --restart=always --link=simple-api-server --link=simple-web-server simple-reverse-proxy 
+$ docker ps -a 
+```
+
+4.3 Test
+
+> http://<HOST_NAME or IP>
