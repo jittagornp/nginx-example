@@ -1,5 +1,7 @@
 Simple Load Balancer (Run on Docker)
 
+![](./nginx-load-balancer.png)
+
 # Requires
 
 - Docker 

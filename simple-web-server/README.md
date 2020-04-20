@@ -1,6 +1,6 @@
 # Simple Web Server (Run on Docker)
 
-![](./web-server.png)
+![](./nginx-web-server.png)
 
 # Requires
 
