@@ -1,5 +1,9 @@
 # Simple Web Server (Run on Docker)
 
+# Requires
+
+- Docker 
+
 ### 1. Clone 
 
 ```sh
