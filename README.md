@@ -2,7 +2,7 @@
 
 > ตัวอย่างการ Config Nginx แบบต่าง ๆ
 
-# Requires
+# Prerequisites
 
 - [พื้นฐาน Git](https://docs.google.com/presentation/d/15OPX4ho6uvhgOubxFxSp1Cl7myOlyQ7OBC9PoClMwBA/edit?usp=sharing)
 - [พื้นฐาน Docker](https://docs.google.com/presentation/d/1NXArkIDFIJMmcvXY63cc5z7jIsbx8SDZqt76RqeuGwU/edit?usp=sharing)
