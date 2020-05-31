@@ -2,7 +2,7 @@
 
 <img src="./nginx-reverse-proxy.png" width="600"/>
 
-# Requires
+# Prerequisites
 
 - Docker 
 
