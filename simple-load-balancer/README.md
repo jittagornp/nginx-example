@@ -2,7 +2,7 @@
 
 <img src="./nginx-load-balancer.png" width="600"/>
 
-# Requires
+# Prerequisites
 
 - Docker 
 
