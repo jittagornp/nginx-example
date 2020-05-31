@@ -2,7 +2,7 @@
 
 <img src="./nginx-web-server.png" width="600"/>
 
-# Requires
+# Prerequisites
 
 - Docker 
 
